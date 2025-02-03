@@ -40,6 +40,8 @@ The chosen solution uses **Loading the Entire File into Memory** to extract logs
      curl -L -o test_logs.log "https://limewire.com/d/90794bb3-6831-4e02-8a59-ffc7f3b8b2a3#X1xnzrH5s4H_DKEkT_dfBuUT1mFKZuj4cFWNoMJGX98"
      ```
 
+   - Alternatively, you can download the provided `logs_2024.log.zip` file located at the root of the project structure by visiting the following link: [logs_2024.log.zip](https://limewire.com/d/90794bb3-6831-4e02-8a59-ffc7f3b8b2a3#X1xnzrH5s4H_DKEkT_dfBuUT1mFKZuj4cFWNoMJGX98).
+
 2. **Run the Script**:
    - Execute the script with the log file path `test_logs.log` located at the root of the project structure and the target date as arguments:
 
